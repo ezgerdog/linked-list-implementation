@@ -198,22 +198,10 @@ Everything should be fine if you see this
 ## Project Structure
 
 ```text
-Linked-List-Test/
-├── LinkedList Test.py
+linked-list-implementation/
+├── linked_list_test.py
 ├── .gitattributes
 └── README.md
-```
-
-For a cleaner file name, rename:
-
-```text
-LinkedList Test.py
-```
-
-to:
-
-```text
-linked_list_test.py
 ```
 
 ## Running the Project
@@ -221,13 +209,13 @@ linked_list_test.py
 Clone the repository:
 
 ```bash
-git clone https://github.com/ezgerdog/Linked-List-Test.git
+git clone https://github.com/ezgerdog/linked-list-implementation.git
 ```
 
 Open the project directory:
 
 ```bash
-cd Linked-List-Test
+cd linked-list-implementation
 ```
 
 Run the Python file:
